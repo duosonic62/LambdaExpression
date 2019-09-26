@@ -1,6 +1,8 @@
 # IntelliJ
 out/
 .idea/
+*.iml
+lib/
 
 # General
 .DS_Store
